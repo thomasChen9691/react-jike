@@ -1,3 +1,5 @@
+The website is a simple react project, the account and password are:13888888888 and 246810
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
